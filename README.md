@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 Working on camera calibration and pose estimation for unconstrained cameras 
+Working on camera calibration and pose estimation for unconstrained cameras 
 (M.Sc. thesis @ TUM), with a focus on multi-frame consistency, self-supervised learning, 
 and 3D geometry.
 
