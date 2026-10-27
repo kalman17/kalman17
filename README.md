@@ -6,8 +6,8 @@ B.Sc. Aerospace Engineering at UT Austin. Currently co-founder & CTO of a Munich
 
 Self-supervised visual odometry and camera calibration from raw video (master's thesis and
 follow-up research): an image-only VO transformer, trained on ~80k unlabeled frames with no
-ground truth, that matches the rotation accuracy of the AnyCam (CVPR 2025) pipeline at ~40×
-lower latency → [anycam-extension](https://github.com/kalman17/anycam-extension)
+ground truth, that matches the rotation accuracy of the AnyCam (CVPR 2025) pipeline at ~5×
+lower latency and memory → [mcvo](https://github.com/kalman17/mcvo)
 
 Targetless multi-sensor self-calibration of a vehicle rig via 3D Gaussian Splatting on
 KITTI-360 → [calibration-praktikum](https://github.com/kalman17/calibration-praktikum)
